@@ -3,9 +3,9 @@ import React from "react";
 
 export default function Header() {
   return (
-    <div className="bg-gray-800">
+    <div className="mb-2">
       <div className="max-w-screen-xl mx-auto h-auto py-4 px-4 flex items-center justify-between">
-        <div className="flex items-center gap-40">
+        <div className="flex items-center gap-56">
           {" "}
           <div>
             <Image src="/images/logo.svg" alt="logo" width={70} height={70} />
