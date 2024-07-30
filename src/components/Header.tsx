@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Header() {
   return (
-    <div className="mb-2">
+    <div className="">
       <div className="max-w-screen-xl mx-auto h-auto py-4 px-4 flex items-center justify-between">
         <div className="flex items-center gap-56">
           {" "}
